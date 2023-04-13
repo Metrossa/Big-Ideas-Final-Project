@@ -9,3 +9,4 @@ Description and links to the datasets used <br>
   *Describe da tings yea* <br> 
 A one sentence overview of your repository, meant for someone who is not familiar with the project <br> 
   *Our repo covers OBJECTIVALLY the best ends out here in Pittsburgh based on my opinion and da mandem* <br>
+  **Our repository looks into which neighborhood is the best one to park your car in primarily based on economic and safety factors.**

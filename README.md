@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-Big Class Final Project Ting
+Big Class Final Project Ting (canvas group 9)
 
 Team name Ommak (امك) <br>
 Team members and their email addresses <br> 
